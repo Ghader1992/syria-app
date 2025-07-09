@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "266285121241",
+    "project_id": "eo-syria-app",
+    "storage_bucket": "eo-syria-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266285121241:android:93fa09c4cfb59eb44848c8",
+        "android_client_info": {
+          "package_name": "sy.eoclickandgo.sy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOtpm2pjyqssBm1_OGNZJUFcI2_j8kTVc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
